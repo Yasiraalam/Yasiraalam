@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data structure & algorithm**
 
-- 💬 Ask me about **Web dev ,MYSQL, C++,C**
+- 💬 Ask me about **Web dev ,MYSQL, C++,C,Android dev,koltin,Java**
 
 - 📫 How to reach me **https://www.linkedin.com/in/yasir-alam-89862422b/**
 
