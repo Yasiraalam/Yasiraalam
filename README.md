@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advance Native Android dev**
 
-- 💬 Ask me about **Web dev ,MYSQL, C++,C,Android dev,koltin,Java**
+- 💬 Ask me about **Android dev,MySQL, C++,C,Python,kotlin,Java,Flask**
 
 - 📫 How to reach me **https://www.linkedin.com/in/yasir-alam-89862422b/**
 
