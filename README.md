@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/yasiralam" target="blank"><img src="https://img.shields.io/twitter/follow/yasiralam?logo=twitter&style=for-the-badge" alt="yasiralam" /></a> </p>
 
-- 🌱 I’m currently learning **Data structure & algorithm**
+- 🌱 I’m currently learning **Advance Native Android dev**
 
 - 💬 Ask me about **Web dev ,MYSQL, C++,C,Android dev,koltin,Java**
 
